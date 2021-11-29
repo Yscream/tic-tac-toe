@@ -1,6 +1,4 @@
-# empty-project
-
-Empty project.
+# Tic-Tac_toe
 
 ## Building and running on localhost
 
